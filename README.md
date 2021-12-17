@@ -13,6 +13,7 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ## PC Enviromment
+![Board](https://img.shields.io/badge/Intel-Core_i5_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 Profile views

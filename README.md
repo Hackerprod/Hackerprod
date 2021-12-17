@@ -1,4 +1,5 @@
-### Hi there 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/Hackerprod?logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Hackerprod?logo=github&style=for-the-badge)
 
 <!--
 **Hackerprod/Hackerprod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

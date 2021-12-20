@@ -9,7 +9,7 @@
 ## Social networks
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hackerprod)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hackerprod?logo=twitter&style=for-the-badge)](https://twitter.com/hackerprod)
-[![Steam](https://img.shields.io/badge/Steam-17445D?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hackerprod)
+[![Steam](https://img.shields.io/badge/Steam_Community-17445D?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hackerprod)
 ![GitHub followers](https://img.shields.io/github/followers/Hackerprod?logo=github&style=for-the-badge)
 
 ## Not official work for plattaforms 

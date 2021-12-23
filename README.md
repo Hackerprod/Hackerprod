@@ -17,7 +17,7 @@
 ![Steam](https://img.shields.io/badge/Dota2-CD2640?style=for-the-badge&logo=dota2&logoColor=white)
 
 ## Environment
-![Micro](https://img.shields.io/badge/ASUS-Maximus_Hero_VI-0071C5?style=for-the-badge&logo=asus&logoColor=white)
+![Micro](https://img.shields.io/badge/ASUS-ROG_MAXIMUS_VI_HERO-0071C5?style=for-the-badge&logo=asus&logoColor=white)
 ![Micro](https://img.shields.io/badge/Intel-Core_i5_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![nvidia](https://img.shields.io/badge/NVIDIA-GTX550Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 

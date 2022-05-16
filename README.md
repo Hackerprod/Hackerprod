@@ -23,6 +23,11 @@
 ![Micro](https://img.shields.io/badge/Intel-Core_i5_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![nvidia](https://img.shields.io/badge/NVIDIA-GTX550Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-## Profile views
+## Total Profile Visit
 [![Profile views](https://views.whatilearened.today/views/github/hackerprod/creative-profile-readme.svg)](https://github.com/hackerprod/hackerprod) 
+
+ <h3><p align="center">Profile Visit: since 07.05.2022</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/hackerprod/count.svg"/>
+</p>
 

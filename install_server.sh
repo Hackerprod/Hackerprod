@@ -469,6 +469,8 @@ install_shadowbox() {
   # deleting the container in the case of failure (e.g. using a trap, or
   # deleting existing containers on each run).
   run_step "Starting Shadowbox" start_shadowbox
+  # TODO(fortuna): Don't wait for Shadowbox to run this.
+  run_step "Starting Watchtower" start_watchtower
 
   readonly PUBLIC_API_URL="https://${PUBLIC_HOSTNAME}:${API_PORT}/${SB_API_PREFIX}"
   readonly LOCAL_API_URL="https://localhost:${API_PORT}/${SB_API_PREFIX}"

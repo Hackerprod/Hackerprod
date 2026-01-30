@@ -1,16 +1,26 @@
-# Hi, I'm Hackerprod
+# Hackerprod
 
-Developer and community builder focused on creating reliable tooling for gaming platforms and online services. I enjoy crafting automation that keeps communities running smoothly and delivers memorable experiences for players.
+Arquitecto de plataformas y automatización orientado a mantener comunidades en línea funcionando sin interrupciones. Disfruto diseccionar protocolos, convertir scripts en productos y acompañar a los equipos que operan cada despliegue.
 
 ---
 
-## Snapshot
-- Building backend and infrastructure solutions with C# and the .NET ecosystem.
-- Focused on resilient systems, security hardening, and high-uptime operations.
-- Active in the Steam and Dota 2 communities; always looking for ways to improve game server workflows.
-- Open to collaborating on open-source projects, community platforms, and backend tooling.
+## Quién soy
+- Ingeniero autodidacta que mezcla ingeniería inversa, backend y DevOps para materializar ideas rápidamente.
+- Facilitador técnico que documenta, prepara entornos reproducibles y comparte soporte cercano con administradores y moderadores.
+- Líder práctico: pruebo cada herramienta en mis propias operaciones antes de liberarla a terceros.
 
-## Toolbox
+## Cómo construyo
+- Diseño arquitecturas con telemetría, seguridad y automatización de despliegue desde la primera iteración.
+- Convierto tareas manuales en flujos orquestados: scripts, servicios y dashboards listos para el equipo que los usará.
+- Mido el impacto de cada entrega con métricas operativas y feedback directo de la comunidad.
+
+## Principios
+- **Confiabilidad ante todo**: prefiero una función menos y un sistema estable a una lista de features frágiles.
+- **Automatizar para escalar**: cada repetición es una señal para crear un proceso o un bot que la resuelva.
+- **Entrega continua**: ciclos cortos, reversibles y observables para reducir riesgo y acelerar aprendizaje.
+- **Uso responsable**: herramientas construidas con respeto por los jugadores, comunidades y partners involucrados.
+
+## Toolbox habitual
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -18,27 +28,17 @@ Developer and community builder focused on creating reliable tooling for gaming 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## Featured Activity
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackerprod&show_icons=true&theme=transparent&hide_border=true)](https://github.com/Hackerprod)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hackerprod&theme=transparent&hide_border=true)](https://github.com/Hackerprod)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerprod&layout=compact&theme=transparent&hide_border=true)](https://github.com/Hackerprod)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hackerprod&theme=github-compact&hide_border=true&area=true)
-
-## Connect
+## Contacto y comunidad
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hackerprod)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hackerprod?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hackerprod)
 [![Steam](https://img.shields.io/badge/Steam_Community-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hackerprod)
 ![GitHub followers](https://img.shields.io/github/followers/Hackerprod?style=for-the-badge&logo=github&logoColor=white)
 
-## Workstation
-![ASUS ROG Maximus VI Hero](https://img.shields.io/badge/ASUS-ROG_Maximus_VI_Hero-FF0029?style=for-the-badge&logo=asus&logoColor=white)
-![Intel Core i5 4th Gen](https://img.shields.io/badge/Intel-Core_i5_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![NVIDIA GTX 550 Ti](https://img.shields.io/badge/NVIDIA-GTX_550_Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
 <p align="center">
-  <strong>Visitors since 07.05.2022</strong><br />
+  <strong>Visitas desde 07.05.2022</strong><br />
   <img src="https://profile-counter.glitch.me/hackerprod/count.svg" alt="profile views counter" />
 </p>

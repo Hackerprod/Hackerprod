@@ -79,12 +79,6 @@ Platform & automation architect focused on keeping online communities running wi
   <img height="180em" src="https://github-streak-stats-ruby.vercel.app/?user=Hackerprod&currStreakNum=0194DD&sideNums=0194DD&currStreakLabel=0194DD&sideLabels=0194DD&dates=c9d1d9&fire=0194DD&ring=0194DD&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy-api.vercel.app/?username=Hackerprod&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">

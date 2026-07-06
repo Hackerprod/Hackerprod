@@ -1,44 +1,138 @@
-# Hackerprod
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a3b&height=250&section=header&text=Hackerprod&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
-Arquitecto de plataformas y automatización orientado a mantener comunidades en línea funcionando sin interrupciones. Disfruto diseccionar protocolos, convertir scripts en productos y acompañar a los equipos que operan cada despliegue.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=700&color=2D4A3B&center=true&vCenter=true&width=600&lines=Platform+%26+Automation+Architect;Reverse+Engineering+%26+Backend;DevOps+%26+Infrastructure;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ---
 
-## Quién soy
-- Ingeniero autodidacta que mezcla ingeniería inversa, backend y DevOps para materializar ideas rápidamente.
-- Facilitador técnico que documenta, prepara entornos reproducibles y comparte soporte cercano con administradores y moderadores.
-- Líder práctico: pruebo cada herramienta en mis propias operaciones antes de liberarla a terceros.
+## 👋 About Me
 
-## Cómo construyo
-- Diseño arquitecturas con telemetría, seguridad y automatización de despliegue desde la primera iteración.
-- Convierto tareas manuales en flujos orquestados: scripts, servicios y dashboards listos para el equipo que los usará.
-- Mido el impacto de cada entrega con métricas operativas y feedback directo de la comunidad.
+Platform & automation architect focused on keeping online communities running without interruption. I enjoy dissecting protocols, turning scripts into products, and supporting the teams behind every deployment.
 
-## Principios
-- **Confiabilidad ante todo**: prefiero una función menos y un sistema estable a una lista de features frágiles.
-- **Automatizar para escalar**: cada repetición es una señal para crear un proceso o un bot que la resuelva.
-- **Entrega continua**: ciclos cortos, reversibles y observables para reducir riesgo y acelerar aprendizaje.
-- **Uso responsable**: herramientas construidas con respeto por los jugadores, comunidades y partners involucrados.
+- 🔭 **Currently working on:** Internal tooling, automation pipelines, and infrastructure orchestration
+- 🌱 **Deepening my knowledge in:** Distributed systems, advanced DevOps patterns, and software architecture
+- 💬 **Ask me about:** Reverse engineering, backend architecture, DevOps, automation, community infrastructure
+- ⚡ **Fun fact:** I test every tool in my own operations before releasing it to others
 
-## Toolbox habitual
-![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+---
 
-## Contacto y comunidad
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hackerprod)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hackerprod?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hackerprod)
-[![Steam](https://img.shields.io/badge/Steam_Community-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hackerprod)
-![GitHub followers](https://img.shields.io/github/followers/Hackerprod?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ Tech Stack
 
-<p align="center">
-  <strong>Visitas desde 07.05.2022</strong><br />
-  <img src="https://profile-counter.glitch.me/hackerprod/count.svg" alt="profile views counter" />
-</p>
+<details>
+  <summary><b>💻 Languages & Frameworks</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>☁️ Cloud & Infrastructure</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>🔧 Scripting & Automation</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>🗄️ Databases & Storage</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>📱 Platforms</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hackerprod&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerprod&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hackerprod&theme=vue-dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hackerprod&theme=vue&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+## 🤝 Support My Work
+
+If my projects have helped you or your community, consider supporting me. Every contribution helps me dedicate more time to open source tools and infrastructure.
+
+<div align="center">
+  <a href="https://github.com/sponsors/Hackerprod">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=github-sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://www.paypal.com/paypalme/hackerprodlive">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://t.me/Hackerprod">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/hackerprod">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://steamcommunity.com/id/hackerprod">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+  <a href="https://github.com/Hackerprod">
+    <img src="https://img.shields.io/github/followers/Hackerprod?style=for-the-badge&logo=github&logoColor=white&label=Followers" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hackerprod/count.svg" alt="Profile Views" />
+  <br />
+  <sub>Profile views since 07.05.2022</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a3b&height=120&section=footer" width="100%" />
+</div>

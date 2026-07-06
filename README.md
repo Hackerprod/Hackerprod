@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a3b&height=250&section=header&text=Hackerprod&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4F8CC9&height=250&section=header&text=Hackerprod&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=700&color=2D4A3B&center=true&vCenter=true&width=600&lines=Platform+%26+Automation+Architect;Reverse+Engineering+%26+Backend;DevOps+%26+Infrastructure;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=700&color=4F8CC9&center=true&vCenter=true&width=600&lines=Platform+%26+Automation+Architect;Reverse+Engineering+%26+Backend;DevOps+%26+Infrastructure;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -71,16 +71,16 @@ Platform & automation architect focused on keeping online communities running wi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hackerprod&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerprod&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Hackerprod&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hackerprod&layout=compact&theme=algolia&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hackerprod&theme=vue-dark&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Hackerprod&theme=algolia&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hackerprod&theme=vue&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hackerprod&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
 
 ---
@@ -134,5 +134,5 @@ If my projects have helped you or your community, consider supporting me. Every 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a3b&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4F8CC9&height=120&section=footer" width="100%" />
 </div>

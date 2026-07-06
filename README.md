@@ -10,7 +10,14 @@
 
 ## 👋 About Me
 
-Platform & automation architect passionate about AI development and improvement. I explore the creation of new architectures and enhancements to existing ones, always pushing the boundaries of what's possible.
+Platform & automation architect focused on keeping online communities running without interruption. I enjoy dissecting protocols, turning scripts into products, and supporting the teams behind every deployment.
+
+Passionate about AI development and improvement, I explore the creation of new architectures and enhancements to existing ones.
+
+- 🔭 **Currently working on:** Internal tooling, automation pipelines, and infrastructure orchestration
+- 🌱 **Deepening my knowledge in:** Distributed systems, advanced DevOps patterns, and software architecture
+- 💬 **Ask me about:** Reverse engineering, backend architecture, DevOps, automation, community infrastructure
+- ⚡ **Fun fact:** I test every tool in my own operations before releasing it to others
 
 ---
 

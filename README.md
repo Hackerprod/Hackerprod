@@ -10,12 +10,7 @@
 
 ## 👋 About Me
 
-Platform & automation architect focused on keeping online communities running without interruption. I enjoy dissecting protocols, turning scripts into products, and supporting the teams behind every deployment.
-
-- 🔭 **Currently working on:** Internal tooling, automation pipelines, and infrastructure orchestration
-- 🌱 **Deepening my knowledge in:** Distributed systems, advanced DevOps patterns, and software architecture
-- 💬 **Ask me about:** Reverse engineering, backend architecture, DevOps, automation, community infrastructure
-- ⚡ **Fun fact:** I test every tool in my own operations before releasing it to others
+Platform & automation architect passionate about AI development and improvement. I explore the creation of new architectures and enhancements to existing ones, always pushing the boundaries of what's possible.
 
 ---
 
@@ -26,9 +21,9 @@ Platform & automation architect focused on keeping online communities running wi
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 <br />
@@ -62,7 +57,6 @@ Platform & automation architect focused on keeping online communities running wi
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 </div>
 
 ---
